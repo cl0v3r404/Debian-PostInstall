@@ -1,10 +1,10 @@
 # Debian-PostInstall
 Post instalación de Debian, sencilla y sin complicaciones.
 
-##Pre-requisitos
+## Pre-requisitos
 Tener instalado en el sistema 'wget' o 'curl'. 
 
-##Instrucciones de uso
+## Instrucciones de uso
 Descargue el script con uno de los comandos que se listan a continuación. 
 
 ```
