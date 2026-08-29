@@ -48,8 +48,7 @@ El script detecta automáticamente el entorno de escritorio instalado (KDE Plasm
 ## Uso
 
 ```bash
-wget https://raw.githubusercontent.com/cl0v3r404/Debian-PostInstall/refs/heads/main/postinstall.sh
-cd Debian-PostInstall
+wget https://raw.githubusercontent.com/cl0v3r404/Debian-PostInstall/main/postinstall.sh
 chmod +x postinstall.sh
 sudo ./postinstall.sh
 ```
