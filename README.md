@@ -4,6 +4,7 @@ Script de post-instalación para Debian que automatiza las tareas más comunes t
 
 Pensado para ahorrar el trabajo manual repetitivo de dejar un Debian recién instalado listo para el uso diario, tanto si se instaló desde el **netinstall** con `tasksel` como desde una **ISO Live** de KDE o GNOME.
 
+> [!NOTE]
 > Este script ha sido creado con ayuda de Inteligencia Artificial, supervisado y probado por mí personalmente.
 
 ## ¿Qué hace?
